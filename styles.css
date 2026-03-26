@@ -206,3 +206,32 @@ p {
     font-size: 34px;
   }
 }
+
+.tech-section {
+  margin-top: 60px;
+}
+
+.tech-header {
+  font-family: 'Roboto', Arial, sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  margin: 0 0 16px;
+  line-height: 1.2;
+}
+
+.tech-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.tech-tag {
+  font-family: 'Roboto', Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1;
+  padding: 10px 14px;
+  border-radius: 999px;
+  border: 1px solid #d0d0d0;
+  background: #fafafa;
+  color: #111111;
+}
